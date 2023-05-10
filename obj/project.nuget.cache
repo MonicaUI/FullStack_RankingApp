@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FuJUKflXuhIzn/XQDtL5yxZcZzztfn03InRrAUlpmY94nJ5YfTvyawMIBGJRDyEDupGokOdjseTpj4jfZe7cgA==",
+  "success": true,
+  "projectFilePath": "/Users/monicadinesh/Projects/Ranking_APP/Ranking_APP/Ranking_APP.csproj",
+  "expectedPackageFiles": [
+    "/Users/monicadinesh/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.5/microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
